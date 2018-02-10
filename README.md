@@ -1,7 +1,7 @@
 ## Blockchain Papers in Medicals
 A curated list of all papers published in Blockchain for Medical Platform and HealthCare.
 
-Read @contributions.md for details regarding how to contribute
+Read [contributions.md](https://github.com/punit-agarwal/MedBlockchain/blob/master/Contributions.md) for details regarding how to contribute
 
 
 ---
