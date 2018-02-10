@@ -22,3 +22,6 @@ Read @contributions.md for details regarding how to contribute
 14. [Blockchain_for_healthcare_paper_final.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1711392/13-71-blockchain_for_healthcare_paper_final.pdf)
 15. [Blockchain_medicaid_solution.8.8.15.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1711393/14-38-blockchain_medicaid_solution.8.8.15.pdf)
 16. [Blockchain apms_080816.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1711395/15-54-kyip_blockchainapms_080816.pdf)
+17. [blockchain-a_healthcare_industry_view_2017_web.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1713079/blockchain-a_healthcare_industry_view_2017_web.pdf)
+18. [PLoP-2017-blockchain.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1713080/PLoP-2017-blockchain.pdf)
+
