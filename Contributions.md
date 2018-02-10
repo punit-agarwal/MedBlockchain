@@ -1,6 +1,6 @@
-Thanks for contributing!
+## Thanks for contributing!
 
-To add a new link:
+### To add a new link:
 
  * Make sure it doesn't already exist.
  * Link to PDF is required. Open knowledge is mandatory. Papers where the PDF
