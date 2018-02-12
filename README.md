@@ -24,4 +24,5 @@ Read [contributions.md](https://github.com/punit-agarwal/MedBlockchain/blob/mast
 16. [Blockchain apms_080816.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1711395/15-54-kyip_blockchainapms_080816.pdf)
 17. [blockchain-a_healthcare_industry_view_2017_web.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1713079/blockchain-a_healthcare_industry_view_2017_web.pdf)
 18. [PLoP-2017-blockchain.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1713080/PLoP-2017-blockchain.pdf)
-
+19. [Blockchain-applications-and-use-cases-in-health-information-technology](https://www.omicsonline.org/pdfdownload.php?download=open-access/blockchain-applications-and-use-cases-in-health-information-technology-2157-7420-1000276.pdf&aid=91911)
+20. [Blockchain distributed ledger technologies for biomedical and health care applications ](https://academic.oup.com/jamia/article-pdf/24/6/1211/20605474/ocx068.pdf)
