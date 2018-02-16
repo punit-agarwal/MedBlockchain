@@ -26,3 +26,7 @@ Read [contributions.md](https://github.com/punit-agarwal/MedBlockchain/blob/mast
 18. [PLoP-2017-blockchain.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1713080/PLoP-2017-blockchain.pdf)
 19. [Blockchain-applications-and-use-cases-in-health-information-technology](https://www.omicsonline.org/pdfdownload.php?download=open-access/blockchain-applications-and-use-cases-in-health-information-technology-2157-7420-1000276.pdf&aid=91911)
 20. [Blockchain distributed ledger technologies for biomedical and health care applications ](https://academic.oup.com/jamia/article-pdf/24/6/1211/20605474/ocx068.pdf)
+21. [ModelChain: Decentralized Privacy - Preserving Healthcare Predictive Modeling Framework on Private Blockchain Networks](https://arxiv.org/pdf/1802.01746.pdf)
+22. [Secure and Trustable Electronic Medical Records Sharing using Blockchain](https://arxiv.org/pdf/1709.06528.pdf)
+23. [Applying Software Patterns to Address Interoperability in Blockchain-based Healthcare Apps](https://arxiv.org/pdf/1706.03700.pdf)
+
