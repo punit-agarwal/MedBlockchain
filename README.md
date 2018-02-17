@@ -34,57 +34,61 @@ Read [contributions.md](https://github.com/punit-agarwal/MedBlockchain/blob/mast
 
 ## WHITEPAPERS:
 
-https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf
-http://amchart.io/white-paper/
-https://token.arnagenomics.com/ARNA_whitepaper_en.pdf
-https://www.blockmedx.com/doc/BlockMedxWhitepaper.pdf
-https://www.blockrx.com/wp-content/uploads/2017/10/Whitepaper-Design-Extended.pdf
-https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU
-https://www.burstiq.com/wp-content/uploads/2017/08/BurstIQ-whitepaper_19Jul2017reduced.pdf
-https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf
-https://carex.tech/docs/whitepaper.pdf
-http://coinhealth.io/wp-content/uploads/2017/11/CH-Whitepaper-Revised-11_18_17.pdf
-https://cryogen.me/files/cryogen-WP.pdf
-[The Curecoin blockchain is based on the Peercoin Staking model, with a few notable exception. Here is how Curecoin 1.x is divided] https://curecoin.net/knowledge-base/about-curecoin/how-is-the-currency-divided-up/
-https://dentacoin.com/web/white-paper/Whitepaper-en1.pdf
-https://drive.google.com/file/d/0B2-rqxQ4OfPEV3FkYjNON3lYX3M/view
-https://www.doc-coin.com/white-paper-eng
-https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1508776745697
-https://elcoin.io/White_Paper%200.9_v3.pdf
-http://www.elige.re/whitepaper.pdf
-https://encrypgen.com/wp-content/uploads/2017/05/gene-chain.pdf
-https://enome.io/wp-content/uploads/2017/07/E-Nome-White-Paper-Ver2.5.pdf
-http://etheal.com/etheal-wp-0.8.pdf
-https://www.farmatrust.com/wp-content/uploads/2017/12/FarmaTrust-WP041217_v1.23.pdf
-https://www.geneblockchain.org/wp-content/uploads/Whitepaper-EN.pdf
-http://healpoint.io/whitepaper.pdf
-https://drive.google.com/file/d/0B-QBdFrWXGeAdnRQaHlUbV9QNm8/view
-https://daks2k3a4ib2z.cloudfront.net/586ebe41ba9f9499729002dc/59e6211d76c4d200017c6dc5_HealthWizz_White%20Paper.pdf
-http://www.healthcombix.com/
-https://www.healthureum.io/app/Healthureum-White-Paper.pdf
-http://hearthy.co/assets/images/Hearthy-whitepaper.pdf
-https://iryo.io/iryo_whitepaper.pdf
-https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf
-https://litra.site/Litrawhitepaper.pdf
-https://luvenmed.io/whitepaper/whitepaper_en.pdf
-https://cryptoheart.org/docs/mdcn2.pdf
-https://medcredits.io/docs/MedCredits%20White%20Paper%20Final.pdf
-https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_en.pdf
-http://medibond.io/doc/medibond_whitepaper.pdf
-https://medicalchain.com/Medicalchain-Whitepaper-EN.pdf
-https://docs.google.com/document/d/1CcC0TunMv_utiQwXlD9gysj1yc2QAj5jQ8jRAuCla9k/edit
-https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf
-https://docs.google.com/document/d/1wUz5D1cvSDkSeXF6RZipK_zNHE9odn4uEP7qgM0jtZk/edit
-https://patientory.com/patientory_whitepaper.pdf
-https://robomed.io/download/Robomed_whitepaper_eng_final.pdf
-https://www.scriptdrop.io/assets/scriptdrop-white-paper.pdf
-https://shivom.io/files/Shivom-Executive-Summary.pdf
-https://docsend.com/view/cuufmc5
-https://smarthealthcare.today/resources/whitepaper.pdf
-https://solve.care/documents/Solve.Care-Whitepaper.pdf
-https://tge.synthiumhealth.com/wp-content/uploads/2017/09/Synthium-Whitepaper-English.pdf
-http://www.universalhealthcoin.com/wp-content/uploads/UHCWhitePaper-V2.3.pdf
-https://www.verisfoundation.com/
-https://joinwell.io/docs/joinwell-whitepaper-en.pdf
-https://zenome.io/download/whitepaper.pdf
-https://whaproject.com/white.pdf
+1. https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf
+2. http://amchart.io/white-paper/
+3. https://token.arnagenomics.com/ARNA_whitepaper_en.pdf
+4. https://www.blockmedx.com/doc/BlockMedxWhitepaper.pdf
+5. https://www.blockrx.com/wp-content/uploads/2017/10/Whitepaper-Design-Extended.pdf
+6. https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU
+7. https://www.burstiq.com/wp-content/uploads/2017/08/BurstIQ-whitepaper_19Jul2017reduced.pdf
+8. https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf
+9. https://carex.tech/docs/whitepaper.pdf
+10. http://coinhealth.io/wp-content/uploads/2017/11/CH-Whitepaper-Revised-11_18_17.pdf
+11. https://cryogen.me/files/cryogen-WP.pdf
+12. The Curecoin blockchain is based on the Peercoin Staking model, with a few notable exception. Here is how Curecoin 1.x is divided [https://curecoin.net/knowledge-base/about-curecoin/how-is-the-currency-divided-up/]
+13. https://dentacoin.com/web/white-paper/Whitepaper-en1.pdf
+14. https://drive.google.com/file/d/0B2-rqxQ4OfPEV3FkYjNON3lYX3M/view
+15. https://www.doc-coin.com/white-paper-eng
+16. https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1508776745697
+17. https://elcoin.io/White_Paper%200.9_v3.pdf
+18. http://www.elige.re/whitepaper.pdf
+19. https://encrypgen.com/wp-content/uploads/2017/05/gene-chain.pdf
+20. https://enome.io/wp-content/uploads/2017/07/E-Nome-White-Paper-Ver2.5.pdf
+21. http://etheal.com/etheal-wp-0.8.pdf
+22. https://www.farmatrust.com/wp-content/uploads/2017/12/FarmaTrust-WP041217_v1.23.pdf
+23. https://www.geneblockchain.org/wp-content/uploads/Whitepaper-EN.pdf
+24. http://healpoint.io/whitepaper.pdf
+25. https://drive.google.com/file/d/0B-QBdFrWXGeAdnRQaHlUbV9QNm8/view
+26. https://daks2k3a4ib2z.cloudfront.net/586ebe41ba9f9499729002dc/59e6211d76c4d200017c6dc5_HealthWizz_White%20Paper.pdf
+27. http://www.healthcombix.com/
+28. https://www.healthureum.io/app/Healthureum-White-Paper.pdf
+29. http://hearthy.co/assets/images/Hearthy-whitepaper.pdf
+30. https://iryo.io/iryo_whitepaper.pdf
+31. https://linda.healthcare/media/LindaHealthcare_WhitePaper_Eng.pdf
+32. https://litra.site/Litrawhitepaper.pdf
+33. https://luvenmed.io/whitepaper/whitepaper_en.pdf
+34. https://cryptoheart.org/docs/mdcn2.pdf
+35. https://medcredits.io/docs/MedCredits%20White%20Paper%20Final.pdf
+36. https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_en.pdf
+37. http://medibond.io/doc/medibond_whitepaper.pdf
+38. https://medicalchain.com/Medicalchain-Whitepaper-EN.pdf
+39. https://docs.google.com/document/d/1CcC0TunMv_utiQwXlD9gysj1yc2QAj5jQ8jRAuCla9k/edit
+40. https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf
+41. https://docs.google.com/document/d/1wUz5D1cvSDkSeXF6RZipK_zNHE9odn4uEP7qgM0jtZk/edit
+42. https://patientory.com/patientory_whitepaper.pdf
+43. https://robomed.io/download/Robomed_whitepaper_eng_final.pdf
+44. https://www.scriptdrop.io/assets/scriptdrop-white-paper.pdf
+45. https://shivom.io/files/Shivom-Executive-Summary.pdf
+46. https://docsend.com/view/cuufmc5
+47. https://smarthealthcare.today/resources/whitepaper.pdf
+48. https://solve.care/documents/Solve.Care-Whitepaper.pdf
+49. https://tge.synthiumhealth.com/wp-content/uploads/2017/09/Synthium-Whitepaper-English.pdf
+50. http://www.universalhealthcoin.com/wp-content/uploads/UHCWhitePaper-V2.3.pdf
+51. https://www.verisfoundation.com/
+52. https://joinwell.io/docs/joinwell-whitepaper-en.pdf
+53. https://zenome.io/download/whitepaper.pdf
+54. https://whaproject.com/white.pdf
+
+
+
+
