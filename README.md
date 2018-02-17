@@ -45,7 +45,7 @@ Read [contributions.md](https://github.com/punit-agarwal/MedBlockchain/blob/mast
 9. https://carex.tech/docs/whitepaper.pdf
 10. http://coinhealth.io/wp-content/uploads/2017/11/CH-Whitepaper-Revised-11_18_17.pdf
 11. https://cryogen.me/files/cryogen-WP.pdf
-12. The Curecoin blockchain is based on the Peercoin Staking model, with a few notable exception. Here is how Curecoin 1.x is divided [https://curecoin.net/knowledge-base/about-curecoin/how-is-the-currency-divided-up/]
+12. [The Curecoin blockchain is based on the Peercoin Staking model, with a few notable exception. Here is how Curecoin 1.x is divided](https://curecoin.net/knowledge-base/about-curecoin/how-is-the-currency-divided-up/)
 13. https://dentacoin.com/web/white-paper/Whitepaper-en1.pdf
 14. https://drive.google.com/file/d/0B2-rqxQ4OfPEV3FkYjNON3lYX3M/view
 15. https://www.doc-coin.com/white-paper-eng
