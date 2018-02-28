@@ -29,6 +29,7 @@ Read [contributions.md](https://github.com/punit-agarwal/MedBlockchain/blob/mast
 21. [ModelChain: Decentralized Privacy - Preserving Healthcare Predictive Modeling Framework on Private Blockchain Networks](https://arxiv.org/pdf/1802.01746.pdf)
 22. [Secure and Trustable Electronic Medical Records Sharing using Blockchain](https://arxiv.org/pdf/1709.06528.pdf)
 23. [Applying Software Patterns to Address Interoperability in Blockchain-based Healthcare Apps](https://arxiv.org/pdf/1706.03700.pdf)
+24. [blockchainforhealthcare.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1765822/11-74-ablockchainforhealthcare.pdf)
 
 ---
 
