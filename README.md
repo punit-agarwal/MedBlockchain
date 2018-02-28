@@ -88,7 +88,7 @@ Networks.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1765952/A.Blo
 52. https://joinwell.io/docs/joinwell-whitepaper-en.pdf
 53. https://zenome.io/download/whitepaper.pdf
 54. https://whaproject.com/white.pdf
-
+55. https://www.freedassociates.com/wp-content/uploads/2017/08/Blockchain_White_Paper.pdf
 
 
 
