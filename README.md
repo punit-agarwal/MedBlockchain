@@ -26,7 +26,7 @@ biomedical and health care applications.pdf](https://github.com/punit-agarwal/Me
 12. [blockchain-a_healthcare_industry_view_2017_web.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1765948/blockchain-a_healthcare_industry_view_2017_web.pdf)
 13. [Adoption of block-chain to enable the
 scalability and adoption of Accountable Care.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1765950/Adoption.of.block-chain.to.enable.the.scalability.and.adoption.of.Accountable.Care.pdf)
-14. [A B LOCKCHAIN P ROFILE FOR M EDICAID A PPLICANTS AND R ECIPIENTS.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1765951/A.B.LOCKCHAIN.P.ROFILE.FOR.M.EDICAID.A.PPLICANTS.AND.R.ECIPIENTS.pdf)
+14. [A BLOCKCHAIN PROFILE FOR MEDICAID APPLICANTS AND RECIPIENTS.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1765951/A.B.LOCKCHAIN.P.ROFILE.FOR.M.EDICAID.A.PPLICANTS.AND.R.ECIPIENTS.pdf)
 15. [A Blockchain-Based Approach to Health Information Exchange
 Networks.pdf](https://github.com/punit-agarwal/MedBlockchain/files/1765952/A.Blockchain-Based.Approach.to.Health.Information.Exchange.Networks.pdf)
 
